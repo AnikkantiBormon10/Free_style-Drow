@@ -2,7 +2,7 @@
 
 A browser-based drawing application inspired by Microsoft Paint, built with vanilla HTML, CSS, and JavaScript. Features include multiple brush colors, adjustable sizes, undo/redo functionality, and mobile support.
 
-![Paint App Screenshot](screenshot.png) <!-- Add screenshot later -->
+![Paint App Screenshot](free_style-Drow-SS.png) 
 
 ## Features
 
